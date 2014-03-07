@@ -1,9 +1,9 @@
 DEBUG = false
-SPEED = 250 #160 is default
+SPEED = 500 #160 is default
 GRAVITY = 1100
 FLAP = 320
 SPAWN_RATE = 1 / 100 #1 / 1200 is default
-OPENING = 300 #100 is default
+OPENING = 5 #100 is default
 SCALE = 1
 
 HEIGHT = 384
