@@ -1,5 +1,5 @@
 DEBUG = false
-SPEED = 160
+SPEED = 250 #160 is default
 GRAVITY = 1100
 FLAP = 320
 SPAWN_RATE = 1 / 1200
